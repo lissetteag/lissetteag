@@ -4,7 +4,7 @@ I'm is a Researcher in the field of Software Engineering currently in the final 
 She is currently part of the [Modelling and Software Engineering research group](http://miso.es/index.html) led by [Juan de Lara](http://arantxa.ii.uam.es/~jlara/) and [Esther Guerra](http://arantxa.ii.uam.es/~eguerra/) within the Computer Science Department of the Universidad Autónoma de Madrid. 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-profile-blue)](https://www.linkedin.com/in/lissettealmontegarcia/)
-[![Droid](https://img.shields.io/badge/Droid-webpage-blueviolet)]([https://www.linkedin.com/in/lissettealmontegarcia/](https://droid-dsl.github.io/#page-top))
+[![Droid](https://img.shields.io/badge/Droid-webpage-blueviolet)](https://droid-dsl.github.io/#page-top)
 
 ![lissetteag's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lissetteag&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
