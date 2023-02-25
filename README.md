@@ -18,7 +18,7 @@
 
 <h3 align="left"></h3>
 <p align="left">
-<a href="https://droid-dsl.github.io/#page-top" target="blank"><img align="center" src="https://github.com/lissetteag/Droid-dsl.github.io/blob/main/assets/img/cover.png" alt="lissette_almont" height="25%" width="25%" /></a>
+<a href="https://droid-dsl.github.io/#page-top" target="blank"><img align="center" src="https://github.com/lissetteag/Droid-dsl.github.io/blob/main/assets/img/image.png" alt="lissette_almont" height="25%" width="25%" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
